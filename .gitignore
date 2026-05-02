@@ -1,0 +1,50 @@
+# VSCode Files
+.vscode/
+
+# Visual Studio files
+.vs/
+bin/
+obj/
+*.exe
+*.pdb
+*.dll
+*.user
+*.suo
+*.cache
+*.log
+*.vspscc
+*.vssscc
+*.psess
+*.dbmdl
+*.dbproj*
+*.VC.db
+*.csproj.user
+*.bak
+*.cache
+*.sln.docstates
+*.sln.ide-shadows
+[Tt]humbs.db
+*.dbmdl
+*.dbproj*
+*.VC.db
+*.csproj.user
+*.bak
+*.cache
+*.sln.docstates
+*.sln.ide-shadows
+[Tt]humbs.db
+
+# JetBrains Rider files
+.idea/
+*.iml
+*.ipr
+*.iws
+.idea_modules/
+
+# Build results
+bin/
+obj/
+
+# Ignore files in the SteamFrameTrackingModule folder
+/SteamFrameTrackingModule/bin/
+/SteamFrameTrackingModule/obj/
